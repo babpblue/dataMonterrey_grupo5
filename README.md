@@ -1,4 +1,5 @@
 Trabajo 2 de Inteligencia Artificial.
+
 Integrantes:
 - Vicente Carrillo
 - Byron Barreno
